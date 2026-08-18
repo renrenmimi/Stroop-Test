@@ -18,4 +18,4 @@ and this measures it.
 
 ## Tech
 
-Single-file HTML5 app. No build step, no dependencies.
+One `index.html` file.
