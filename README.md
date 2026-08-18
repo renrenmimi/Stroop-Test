@@ -1,4 +1,4 @@
-# Stroop Test 🎨
+# Stroop Test
 
 **▶ [Try it](https://renrenmimi.github.io/Stroop-Test/)** — runs in your browser, nothing to install.
 
