@@ -5,6 +5,8 @@
 The word says RED. The ink is blue. Your brain hesitates — that hesitation is the Stroop effect,
 and this measures it.
 
+![The Stroop effect, four ways](docs/screenshot.jpg)
+
 ## Modes
 
 | Mode | Rule |
